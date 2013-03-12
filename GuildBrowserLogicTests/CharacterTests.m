@@ -43,6 +43,7 @@
 {
     // 6
     _characterDetailJson = nil;
+	// useless comment on a different file
 }
 
 // 1
