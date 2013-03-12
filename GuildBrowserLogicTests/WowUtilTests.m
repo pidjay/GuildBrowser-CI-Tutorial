@@ -35,6 +35,7 @@
     STAssertFalse([@"Night Elf" isEqualToString:[WoWUtils raceFromRaceType:45]],nil);
     // add the rest as an exercise
 	// another useless addition
+	// yet another one... :]
 }
 
 - (void)testQualityLookup
