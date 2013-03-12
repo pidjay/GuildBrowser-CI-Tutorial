@@ -34,8 +34,6 @@
     STAssertEqualObjects(@"Orc", [WoWUtils raceFromRaceType:2], nil);
     STAssertFalse([@"Night Elf" isEqualToString:[WoWUtils raceFromRaceType:45]],nil);
     // add the rest as an exercise
-	// another useless addition
-	// yet another one... :]
 }
 
 - (void)testQualityLookup
@@ -43,8 +41,6 @@
     STAssertEquals(@"Grey", [WoWUtils qualityFromQualityType:1], nil);
     STAssertFalse([@"Purple" isEqualToString:[WoWUtils qualityFromQualityType:10]],nil);
     // add the rest as an exercise
-	// useless addition
-	// one more here...
 }
 
 @end
