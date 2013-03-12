@@ -41,6 +41,7 @@
     STAssertEquals(@"Grey", [WoWUtils qualityFromQualityType:1], nil);
     STAssertFalse([@"Purple" isEqualToString:[WoWUtils qualityFromQualityType:10]],nil);
     // add the rest as an exercise
+	// useless addition
 }
 
 @end
