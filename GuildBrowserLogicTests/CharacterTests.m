@@ -44,6 +44,7 @@
     // 6
     _characterDetailJson = nil;
 	// doing some changes
+	// more changes coming in...
 }
 
 // 1
