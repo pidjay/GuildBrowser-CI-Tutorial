@@ -45,6 +45,7 @@
     _characterDetailJson = nil;
 	// randomness at its best :]
 	// JUMP
+	// TEST
 }
 
 // 1
