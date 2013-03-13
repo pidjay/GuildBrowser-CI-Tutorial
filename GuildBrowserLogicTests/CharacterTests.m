@@ -43,9 +43,7 @@
 {
     // 6
     _characterDetailJson = nil;
-	// randomness at its best :]
-	// JUMP
-	// TEST
+	// blablabla
 }
 
 // 1
